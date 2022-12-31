@@ -1,4 +1,4 @@
-package com.abhinav;
+package Hashing;
 
 //Java program to demonstrate implementation of our 
 //own hash table with chaining for collision detection 

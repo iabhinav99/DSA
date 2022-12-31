@@ -1,4 +1,4 @@
-package com.abhinav;
+package Hashing;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package com.abhinav;
+package Hashing;
 
 public class Test {
 
