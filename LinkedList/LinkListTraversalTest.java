@@ -11,6 +11,8 @@ public class LinkListTraversalTest {
         LinkListTraversal linkListTraversal=new LinkListTraversal();
 
         linkListTraversal.printNode(head);
+        System.out.println("\nDisplaying Again..");
+        linkListTraversal.printNode(head);
 
         //gfddhu
         //head.sayHello();
