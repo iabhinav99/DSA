@@ -12,6 +12,7 @@ public class LinkListTraversalTest {
 
         linkListTraversal.printNode(head);
 
+        //gfddhu
         //head.sayHello();
 
     }
